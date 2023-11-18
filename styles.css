@@ -6,7 +6,19 @@
 	grid-template-rows:1fr 1fr;
 	grid-gap:10px;
 }
-.item{
+.item1{
+	background-color:#f2f2f2;
+	padding:20px;
+}
+.item2{
+	background-color:#f2f2f2;
+	padding:20px;
+}
+.item3{
+	background-color:#f2f2f2;
+	padding:20px;
+}
+.item4{
 	background-color:#f2f2f2;
 	padding:20px;
 }
